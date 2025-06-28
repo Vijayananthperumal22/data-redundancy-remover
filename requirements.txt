@@ -1,0 +1,9 @@
+# requirements.txt
+
+# This file contains external Python packages needed for the project.
+# Only the PDF generation Lambda (generate_pdf.py) uses external dependencies.
+
+# PDF generation library
+fpdf==1.7.2
+
+# The data cleaning Lambda (lambda_function.py) uses only standard Python libraries.
