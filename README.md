@@ -14,8 +14,12 @@ This project is a serverless API built on AWS Lambda that removes redundant (dup
 ```json
 {
   "records": [
-    {"name": "Alice", "email": "alice@example.com"},
-    {"name": "Bob", "email": "bob@example.com"},
-    {"name": "Alice", "email": "alice@example.com"}
+    { "name": "Vijay", "email": "Vijayananthperumal123@gmail.com" },
+    { "name": "Bala", "email": "balablast@example.com" },
+    { "name": "Lakshmi", "email": "lakshmi@gmail.com" },
+    { "name": "Naveen", "email": "naveensec@gmail.com" },
+    { "name": "Poornima", "email": "pooja@123" }, 
+    { "name": "Vijay", "email": "Vijayananthperumal123@gmail.com" }
   ]
 }
+```
